@@ -1,2 +1,2 @@
 Displayed content to put on main page
-[a relative link](testForDU.html)
+[HG38 mutant vs parental](testForDU.html)
